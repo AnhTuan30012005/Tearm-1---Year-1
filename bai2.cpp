@@ -17,9 +17,7 @@ int main()
 /*đầu tiên kiểm tra độ dài của chuỗi
 nếu độ dài bằng 1 thì chương trình sẽ in ra số đó luôn*/
 	if(chuoi.length() == 1 && chuoi[0] == '0') cout<<"0";
-	else{
-
-		
+	else{		
 //tiếp theo là kiểm tra giá trị của số nhập vào 	
 	if( chuoi[0] == '-')
 	{
