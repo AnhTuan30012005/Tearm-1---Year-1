@@ -8,7 +8,7 @@
 using namespace std;
 int main()
 {//thuật toán đơn giản nhất và nó có nhiều cái nguyên sơ
-//nhập vào số phần tử của mảng
+//nhập vào số phầ n tử của mảng
 	int n ;
 	cin >> n;
 //khai báo mảng có kiểu là số thực
