@@ -9,6 +9,7 @@ có giá trị bé hơn 10 mũ 9
 using namespace std;
 int main()
 {
+	
 //khai báo chuỗi và nhập chuỗi
 	string chuoi;
 	cin >> chuoi;
