@@ -9,14 +9,17 @@ có giá trị bé hơn 10 mũ 9
 using namespace std;
 int main()
 {
-	
+
 //khai báo chuỗi và nhập chuỗi
 	string chuoi;
 	cin >> chuoi;
+
 /*đầu tiên kiểm tra độ dài của chuỗi
 nếu độ dài bằng 1 thì chương trình sẽ in ra số đó luôn*/
 	if(chuoi.length() == 1 && chuoi[0] == '0') cout<<"0";
 	else{
+
+		
 //tiếp theo là kiểm tra giá trị của số nhập vào 	
 	if( chuoi[0] == '-')
 	{
